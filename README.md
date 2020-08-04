@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img alt="Next Level Week Logo" src="images/logo-vlw2.svg" />
+    <img alt="Next Level Week Logo" src="images/logo-nlw2.svg" />
     <br><br>
-    <img alt="Desktop Proffy" height='80px' src="images/print-desktop.png"/>
+    <img alt="Desktop Proffy" height='250px' src="images/print-desktop.png"/>
     <br><br>
     Next Level Week 2 - Proffy
 </h1>
