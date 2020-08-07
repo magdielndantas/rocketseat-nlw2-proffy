@@ -1,21 +1,34 @@
+## Descrição
+
 <h1 align="center">
+    Web Screenshot
     <img alt="Desktop Proffy" height='300px' src="readme/print-desktop.png"/>
 </h1>
-
-## Descrição
 
 Projeto desenvolvido na trilha Omnistack da Next Level Week 2 promovida pela Rocketseat entre os dias 3 e 7 de agosto de 2020. Esse projeto de como intuito desenvolver minhas habilidades relacionadas a front-end e back-end e se trata de uma aplicação para professores e alunos se conectarem.
 
 ## Tecnologias
 
-- Typescript
-- Reactjs
-- React Router Dom
-- React Native
-- Node
-- Express
+### API
+
+- NodeJS
+- [Typescript](https://www.typescriptlang.org/)
+- ts-node-dev
+- [Express](https://expressjs.com/en/api.html#express)
 - Knex
-- SQL
+- SQLite 3
+
+### Web
+
+- ReactJS
+- [Typescript](https://www.typescriptlang.org/)
+- React Router
+- Axios
+
+### Mobile
+
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
 
 ## Aprendizado
 
@@ -44,16 +57,30 @@ Criamos uma API REST com Node com Express, utilizando Knex para fazer migrations
 
 Foi abordado a importancia de levar em consideração o momento, contexto e objetivo ao escolher uma stack para se trabalhar. Que tipo de profissional está sendo buscado? Qual é o tamanho da comunidade? Que tipos de problemas ela resolve? e outras perguntas são interessantes de se fazer ao escolher as técnologias que tomarão seu tempo de estudo e dedicação.
 
+- Teacher Form ✔
+- Integração com API ✔
+
+### Quarto dia: Até 2 anos em 2 meses
+
+Manter o foco e não pular etapas são coisas essênciais para o crescemento de um profissional. Querer conhecer novas tecnologias é bom, mas não pode ser prioridade se você quer conhecer só por conhecer. Praticar é a chave mestra que serve para criar uma distancia entre você e quem não faz nada além de copiar código. Ter um grupo/ comunidade disposta a ver seu crescimento e sanar suas duvidas é uma ferramenta incrível e que muito ajuda no senso de equipe. Foco, pratica e grupo são os pilares de um bom desenvolvedor.
+
+Quarto dia foi o dia em que demos inicio a criação do aplicativo mobile com react native do Proffy.
+
+- Telas ✔
+- Componentes ✔
+
 ## Como usar
+
+```
+# Para clonar esse repositório
+$ git clone https://github.com/magdielndantas/rocketseat-nlw2-proffy
+```
 
 ### Servidor
 
 Para clonar e dar start nesta aplicação voce deverar ter instalado o Git, Node.js + Yarn v1. No seu terminal de comando digite:
 
 ```
-# Para clonar esse repositório
-$ git clone https://github.com/magdielndantas/rocketseat-nlw2-proffy
-
 Para rodar o servidor:
 
 # Entre na pasta web
@@ -73,9 +100,6 @@ Agora acesse no navegador: http://localhost:3333
 Para clonar e dar start nesta aplicação voce deverar ter instalado o Git, Node.js + Yarn v1. No seu terminal de comando digite:
 
 ```
-# Para clonar esse repositório
-$ git clone https://github.com/magdielndantas/rocketseat-nlw2-proffy
-
 Para rodar o front-end web:
 
 # Entre na pasta web
@@ -89,6 +113,27 @@ $ yarn start
 ```
 
 Agora acesse no navegador: http://localhost:3000
+
+### Mobile
+
+Para clonar e dar start nesta aplicação voce deverar ter instalado o Git, Node.js + Yarn v1. No seu terminal de comando digite:
+
+```
+Para rodar a apricação mobile:
+
+# Entre na pasta mobile
+$ cd mobile
+
+# Instale as dependencias
+$ yarn
+
+# Rode a aplicação
+$ yarn start
+ou
+$ expo start
+```
+
+Agora basta ler o QRCode com o aplicativo Expo no celular ou usar um emulador
 
 ## Conclusão
 

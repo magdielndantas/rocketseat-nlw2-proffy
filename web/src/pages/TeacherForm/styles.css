@@ -134,7 +134,7 @@
     justify-content: space-between;
   }
 
-  #page-teacher-form main footer button {
+  #page-teacher-form main footer a {
     width: 20rem;
     margin-top: 0;
   }
