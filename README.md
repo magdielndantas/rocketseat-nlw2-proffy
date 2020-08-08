@@ -21,6 +21,7 @@ Projeto desenvolvido na trilha Omnistack da Next Level Week 2 promovida pela Roc
 </div>
 <br/>
 <br/>
+
 Layouts: [clique aqui](https://www.notion.so/Layout-Proffy-3d5f45f54ec54ef9b2103565b7cce4e1)
 
 ## Tecnologias
@@ -195,6 +196,10 @@ Agora basta ler o QRCode com o aplicativo Expo no celular ou usar um emulador
 <img alt="Next Level Week Logo" src="readme/logo-nlw2.svg" align="left"/>
 
 Agradeço a toda equipe da Rocketseat, especialmente aos instrutores Diego Fernandes e Mayk Brito, por se dedicarem a construir e destribuir tanto conhecimento de forma gratuita. Não agredeço apenas a eles, mas a toda comunidade que fez parte dessa semana tão repleta de conteúdo, creio que parte do que fiz não seria possível sem ajuda todos.
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 ## 📝 Créditos, links e etc
