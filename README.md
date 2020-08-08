@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img alt="Proffy" height='300px' src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3368c282-bf94-49bb-bc6b-905542231e2c%2FPattern.png?table=block&id=3d5f45f5-4ec5-4ef9-b210-3565b7cce4e1&width=2730&cache=v2"/>
+    <img alt="Proffy" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3368c282-bf94-49bb-bc6b-905542231e2c%2FPattern.png?table=block&id=3d5f45f5-4ec5-4ef9-b210-3565b7cce4e1&width=2730&cache=v2"/>
 </h1>
 <div align="center">
   <a href="https://github.com/magdielndantas/rocketseat-nlw2-proffy/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/magdielndantas/rocketseat-nlw2-proffy?color=%d4c2ff" alt="MIT License">
+    <img src="https://img.shields.io/github/license/magdielndantas/rocketseat-nlw2-proffy?color=%blueviolet" alt="MIT License">
   </a> 
   <a href="https://github.com/magdielndantas/rocketseat-nlw2-proffy/commits/master">
-    <img src="https://img.shields.io/github/last-commit/magdielndantas/rocketseat-nlw2-proffy?color=%d4c2ff" alt="Último commit">
+    <img src="https://img.shields.io/github/last-commit/magdielndantas/rocketseat-nlw2-proffy?color=%blueviolet" alt="Último commit">
   </a>
 </div>
 
@@ -14,10 +14,14 @@
 
 Projeto desenvolvido na trilha Omnistack da Next Level Week 2 promovida pela Rocketseat entre os dias 3 e 7 de agosto de 2020. Esse projeto teve como intuito desenvolver minhas habilidades relacionadas a front-end e back-end e se trata de uma aplicação para professores e alunos se conectarem.
 <br/>
-<img alt="Desktop Proffy" height='300px' src="readme/print-desktop.png" align="center"/>
+<br/>
+
+<div align="center">
+  <img alt="Descktop Proffy" src="readme/print-desktop.png"/>
+</div>
 <br/>
 <br/>
-Layouts: [click aqui](https://www.notion.so/Layout-Proffy-3d5f45f54ec54ef9b2103565b7cce4e1)
+Layouts: [clique aqui](https://www.notion.so/Layout-Proffy-3d5f45f54ec54ef9b2103565b7cce4e1)
 
 ## Tecnologias
 
@@ -191,6 +195,7 @@ Agora basta ler o QRCode com o aplicativo Expo no celular ou usar um emulador
 <img alt="Next Level Week Logo" src="readme/logo-nlw2.svg" align="left"/>
 
 Agradeço a toda equipe da Rocketseat, especialmente aos instrutores Diego Fernandes e Mayk Brito, por se dedicarem a construir e destribuir tanto conhecimento de forma gratuita. Não agredeço apenas a eles, mas a toda comunidade que fez parte dessa semana tão repleta de conteúdo, creio que parte do que fiz não seria possível sem ajuda todos.
+<br/>
 
 ## 📝 Créditos, links e etc
 
